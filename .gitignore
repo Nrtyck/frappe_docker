@@ -7,7 +7,8 @@
 sites
 
 development
-!development/README.md
+!development/README_en.md
+!development/README_zh.md
 deploy_key
 deploy_key.pub
 
